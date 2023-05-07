@@ -1,0 +1,14 @@
+h1, h2, .btns{
+    text-align: center;
+}
+button{
+    border: 1px solid black;
+    box-shadow: 2px 2px black;
+    color: white;
+}
+#donate{
+    background-color: blue;
+}
+#redeem{
+    background-color: red;
+}
